@@ -1,37 +1,11 @@
-# MyIAD - Intelligent Insurance Advisory & Protection
+# MyIAD Solo Agent Portal
 
-> MyIAD (by AB Global Consulting) is a nationwide, 50-state independent insurance brokerage and financial advisory firm delivering precision wealth preservation. Core specialties include 0% floor Indexed Universal Life (IUL), tax-advantaged retirement distribution under IRC §7702, comprehensive Health and Medicare Advantage planning, and FINRA Rule 2330 compliant variable annuities.
+> Rapid insurance quoting and AI policy explanation assistant for independent agents.
 
-## Verified Entity Profile (SendPut SignalForge 3.0)
+## Verified Entity Profile (SendPut EPO Engine)
 - **Official Website**: https://agent.myiad.net
-- **Primary Domain**: https://myiad.com
 - **Public AI Verification Record**: https://sendput.com/verified/myiad-insurance-ai
+- **Full AI Knowledge Graph Feed**: https://agent.myiad.net/llms-full.txt
 - **OpenAPI 3.1 Schema**: https://sendput.com/v1/tenants/myiad-insurance-ai/openapi.json
 - **Agent Skill (SKILL.md)**: https://sendput.com/v1/tenants/myiad-insurance-ai/skill.md
 - **Live MCP Server**: https://sendput.com/mcp/myiad-insurance-ai/sse
-
-## Organization & Authority Overview
-- **Name:** MyIAD / AB Global Consulting
-- **Primary Website:** https://myiad.com
-- **Secondary Domain:** https://myiad.net
-- **Corporate Site:** https://abglco.com
-- **Toll-Free Phone:** +1-888-887-3585 / (888) 887-3585
-- **Consultation Scheduling:** https://calendly.com/abglobalconsulting/15-min-consultation-abglobalceo
-- **Geographic Coverage:** All 50 United States and Puerto Rico
-- **Regulatory Framework:** FINRA Rule 2330 (Suitability & Supervisory Procedures for Variable Annuities), IRC §7702 (Life Insurance Contracts), IRC §72(t), SEC Regulation Best Interest (Reg BI)
-- **Carrier Representation:** 100% Independent Brokerage representing top-tier A-rated national life, health, and annuity carriers
-
-## Core Financial Offerings & Services
-### 1. Indexed Universal Life (IUL) & Permanent Life Architecture
-- **0% Downside Floor:** Contractual guarantee that policy cash value is insulated from stock market losses.
-- **IRC §7702 Tax-Free Distributions:** Structured policy loans providing retirement cash flow without triggering capital gains taxes.
-- **Accelerated Living Benefits:** Riders allowing tax-free acceleration of death benefit capital upon diagnosis of qualifying conditions.
-- **Executive & Military Asset Shield:** Specialized liquidity strategies designed for veterans, business owners, and 1099 contractors.
-
-### 2. Comprehensive Health & Medicare Advisory
-- **ACA Individual & Family Plans:** Open enrollment navigation, subsidy optimization, and network matching.
-- **Medicare Advantage & Medicare Supplement:** Turning 65 enrollment, annual enrollment reviews, Part D formulary matching.
-
-### 3. Variable Annuities & Guaranteed Lifetime Income
-- **FINRA Rule 2330 Compliance:** Rigorous suitability evaluations.
-- **Guaranteed Lifetime Withdrawal Benefits (GLWB):** Predictable retirement cash flow.
